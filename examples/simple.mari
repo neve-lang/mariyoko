@@ -1,0 +1,4 @@
+let a, b
+assume a > b
+
+prove b < a
